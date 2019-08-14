@@ -7,4 +7,5 @@ while counter < array.length do
   puts array[counter]
   counter += 1
   end
+  return new_array
 end
