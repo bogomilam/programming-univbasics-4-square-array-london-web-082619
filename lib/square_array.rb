@@ -1,5 +1,6 @@
-
-
 def square_array(array)
-  array.reduce([]) { |a, n| a << n * n }
+numbers = [2,3,4]
+count = 0
+ 
+ 
 end
