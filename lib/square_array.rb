@@ -1,6 +1,7 @@
-def square_array([numbers = [1,2,3])
-numbers = [1,2,3]
+def square_array([1,2,3])
+
 counter = 0
+
 while counter < array.length do
   puts array[counter]
   counter =+
