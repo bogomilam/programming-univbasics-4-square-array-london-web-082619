@@ -2,4 +2,5 @@ def square_array(array)
 new array = []
 counter = 0
 
-while counter < array.length
+while counter < array.length do
+  new array << 
