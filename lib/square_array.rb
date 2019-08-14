@@ -3,4 +3,4 @@ new array = []
 counter = 0
 
 while counter < array.length do
-  new array << 
+  new array << array[counter] ** 2
